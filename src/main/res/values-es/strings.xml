@@ -254,8 +254,31 @@
     <string name="pref_enable_legacy_ssl_summary">Habilita soporte SSLv3 para servidores heredados. Advertencia: SSLv3 se considera no seguro.</string>
     <string name="pref_expert_options">Ajustes avanzados</string>
     <string name="pref_expert_options_summary">Por favor, cuidado con estas opciones</string>
-    <string name="title_activity_about">About Conversations</string>
-    <string name="pref_about_conversations_summary">Build and licensing information</string>
+ <string name="title_activity_about">Acerca de Conversations</string>
+<string name="pref_about_conversations_summary">Información sobre cómo se ha hecho y su licencia</string>
+<string name="pref_about_message">
+Conversations • la última novedad en mensajería instantánea.
++ \n\nCopyright © 2014 Daniel Gultsch
+\nEste programa es software libre; puedes redistribuirlo y/o modificarlo
+bajo los términos de la GNU General Public License versión 3 (o si lo prefieres otra más nueva) que publicó
+la Free Software Foundation.
+ \n\nEste programa está hecho con el propósito de ser útil,
+pero SIN GARANTÍAS; ni siquiera las implícita de
+COMERCIALIZACIÓN o USO PARTICULAR. Lee la
+licencia de GNU General Public License para más detalles.
+\n\nDeberás haber recivido una copia de la General Public License de GNU
+junto con este programa. De no ser así, visita https://www.gnu.org/licenses
+\n\nDescarga todo el código fuente en https://github.com/siacs/Conversations
+\n\n\nBibliotecas
+\n\nhttps://www.bouncycastle.org\n(The MIT License (MIT))
+\n\nhttps://www.gnu.org/software/libidn\n(Apache License, Versión 2.0)
+\n\nhttps://github.com/ge0rg/MemorizingTrustManager\n(The MIT License (MIT))
+\n\nhttps://github.com/rtreffer/minidns\n(WTFPL)
+\n\nhttps://github.com/open-keychain/openkeychain-api-lib\n(Apache License, Versión 2.0)
+\n\nhttps://github.com/jitsi/otr4j\n(LGPL-3.0)
+\n\nhttps://developer.android.com/tools/support-library\n(Apache License, Versión 2.0)
+\n\nhttps://github.com/zxing/zxing\n(Apache License, Versión 2.0)
+</string>
     <string name="pref_use_larger_font">Incrementar tamaño de fuente</string>
     <string name="pref_use_larger_font_summary">Usar fuentes grandes en toda la aplicación</string>
     <string name="pref_use_send_button_to_indicate_status">Botón enviar indica estado</string>
